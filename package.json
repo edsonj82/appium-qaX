@@ -1,0 +1,26 @@
+{
+  "name": "smartbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsonj82/appium-smartbit.git"
+  },
+  "author": "Edson José dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsonj82/appium-smartbit/issues"
+  },
+  "homepage": "https://github.com/edsonj82/appium-smartbit#readme",
+  "dependencies": {
+    "appium": "^2.0.1",
+    "appium-doctor": "^1.15.1"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^3.8.0"
+  }
+}
